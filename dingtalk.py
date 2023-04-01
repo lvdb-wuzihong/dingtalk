@@ -54,7 +54,7 @@ def webhook():
                             },
                             "at": {
                                 "atMobiles": [
-                                    "16620101812",
+                                    "192xxxx1231",
                                 ],
                                 # @所有人，设置为true时atMobiles失效
                                 "isAtAll": "false"
@@ -74,7 +74,7 @@ def webhook():
                             },
                             "at": {
                                 "atMobiles": [
-                                    "16620101812",
+                                    "192xxxx1231",
                                 ],
                                 # @所有人，设置为true时atMobiles失效
                                 "isAtAll": "false"
