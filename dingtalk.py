@@ -23,7 +23,7 @@ def sendDingMes(msg):
     :return:
     """
     # 填写钉钉机器人的Webhook
-    baseUrl = "https://oapi.dingtalk.com/robot/send?access_token=87c16e749ec7a6783851355731d4cf5bfef123002819cb9b6d6b265c85001c0e"
+    baseUrl = "自定义机器人webhook"
     # 设置头
     HEADERS = {
         "Content-Type": "application/json ;charset=utf-8"
